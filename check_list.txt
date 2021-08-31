@@ -1,9 +1,0 @@
-Build
-
-Environment
-
-Test date
-
-Tester
-
-Test type              Checking              Result
